@@ -52,7 +52,7 @@
 
 ### 查看Pushgateway服务端状态
 
-systemctl status harbor
+systemctl status pushgateway
 ![](images/img4.png)
 
 ### 查看Pushgateway容器状态
