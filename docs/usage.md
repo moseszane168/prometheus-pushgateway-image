@@ -2,7 +2,7 @@
 
 # 商品链接
 
-[Pushgateway-Prometheus推送网关]()
+[Pushgateway-Prometheus推送网关](https://marketplace.huaweicloud.com/hidden/contents/a56db89a-2c48-4e97-ab2b-ec223da310fe#productid=OFFI1166672584677113856)
 
 # 商品说明
 

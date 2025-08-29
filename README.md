@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[Pushgateway-Prometheus推送网关]()
+- 镜像商品：[Pushgateway-Prometheus推送网关](https://marketplace.huaweicloud.com/hidden/contents/a56db89a-2c48-4e97-ab2b-ec223da310fe#productid=OFFI1166672584677113856)
 - 镜像规格：Pushgateway-1.11.1-kunpeng-v1.0
 - 预置环境：Pushgateway-1.11.1
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
