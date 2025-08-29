@@ -26,7 +26,7 @@
 7. 手动清理机制：提供 API 手动删除过期指标（如 DELETE /metrics/job/<JOB_NAME>），避免堆积无效数据。适合任务完成后主动清理场景。
 8. 轻量级设计：单进程部署，资源消耗低，可与 Prometheus 实例分离运行，支持容器化部署（官方 Docker 镜像约 15MB）。
 
-本项目提供的开源镜像商品 [**`Pushgateway-推送网关`**]()，已预先安装 Pushgateway 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**`Pushgateway-推送网关`**](https://marketplace.huaweicloud.com/hidden/contents/a56db89a-2c48-4e97-ab2b-ec223da310fe#productid=OFFI1166672584677113856)，已预先安装 Pushgateway 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 **架构设计：**
 
